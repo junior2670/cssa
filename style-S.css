@@ -1,0 +1,25 @@
+.back-animation{
+    height: 110vh;
+
+    
+}
+.second-section .titre h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    margin-top: 50px;
+}
+.second-section .grid-contains{
+    display: grid;
+    grid-template-columns: 500px 500px ;
+    column-gap: 40px;
+    row-gap: 70px;
+    margin-left: 250px;
+    margin-top: 70px;
+    line-height: 30px;
+}
+    
+    
+    .titre h1{
+    color: #17BFA0;
+}
